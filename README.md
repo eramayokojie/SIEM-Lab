@@ -23,7 +23,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 <h2>Script used to gather custom geodata from attackers</h2>
 
-<img width="1245" alt="Screenshot 2024-02-05 at 10 58 18 PM" src="https://github.com/eramayokojie/SIEM-Lab/assets/153569453/77fa9cee-3458-4829-a6f0-1e5ed4c8fd5a">
+<img width="1323" alt="Screenshot 2024-02-06 at 10 22 19 AM" src="https://github.com/eramayokojie/SIEM-Lab/assets/153569453/3624b9ef-beb5-4ff0-aa84-e810faae256f">
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
